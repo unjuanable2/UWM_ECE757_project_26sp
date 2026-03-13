@@ -7,7 +7,7 @@ a logic-simulation workload
 
 pros:
 - a more real-life problem 
-- based on whatever TA provided; maybe extended to be more complex
+- based on whatever TA provided; possibly can be extended to be more complex
 
 cons: not sure if we should extend or if it is easy to extend
 
@@ -17,6 +17,7 @@ Design 3–4 workload/graph families. Each workload/graph describe a typical sce
 - workload2:
 
 cons: don't know how a typical graph is defined, i.e., how to design the proportion of different types of kernels (nodes) in one graph
+
 
 # Scheduling
 The simplest approach might assign each node to a single GPU and execute tasks one at a time. 
