@@ -1,6 +1,8 @@
 # UWM_ECE757_project_26sp
 project proposal: https://docs.google.com/document/d/1MOxm9JDT42SOu8l0D4pbyJysy6ABp9lJLKtDCHpbAY4/edit?tab=t.0
 
+project status report:
+
 # Workload Design
 ## option1
 a logic-simulation workload 
